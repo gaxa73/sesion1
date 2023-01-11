@@ -1,0 +1,15 @@
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/urok7.csproj.AssemblyReference.cache
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/urok7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/urok7.AssemblyInfoInputs.cache
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/urok7.AssemblyInfo.cs
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/urok7.csproj.CoreCompileInputs.cache
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/bin/Debug/net7.0/urok7
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/bin/Debug/net7.0/urok7.deps.json
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/bin/Debug/net7.0/urok7.runtimeconfig.json
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/bin/Debug/net7.0/urok7.dll
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/bin/Debug/net7.0/urok7.pdb
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/urok7.dll
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/refint/urok7.dll
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/urok7.pdb
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/urok7.genruntimeconfig.cache
+/Users/ivanhudan/Documents/Lektion/sesion1/urok7/obj/Debug/net7.0/ref/urok7.dll
