@@ -8,7 +8,7 @@
 // Console.WriteLine("Привет, ");
 // Console.WriteLine(name);
 //Пример 3
-Console.Write("Введите имя, ");
-string name = Console.ReadLine();
-Console.Write("Привет, ");
-Console.Write(name);
+// Console.Write("Введите имя, ");
+// string name = Console.ReadLine();
+// Console.Write("Привет, ");
+// Console.Write(name);

@@ -39,15 +39,3 @@
 // }
 
 //Масив-Метод преобразование
-void FillArray(int[] collection)
-{
-    int Length = collection.Length;
-    int ind = 0;
-    while (ind < Length)
-    {
-         collection[ind] = new Random() .Next(1, 10);
-        //ind = ind +1;
-        ind++;
-    }
-}
-int[] mass = new int[10];

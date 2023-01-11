@@ -11,19 +11,19 @@
 //     Console.Write("Привет, ");
 //     Console.WriteLine(name);
 // }
-//Пример скомандой которая преобразовует регистр маленький или большой буквы.
-Console.Write("Введите имя пользователя ");
-string name = Console.ReadLine();
+//Пример с командой которая преобразовует регистр маленький или большой буквы.
+// Console.Write("Введите имя пользователя ");
+// string name = Console.ReadLine();
 
-if(name.ToLower() == "Иван ")
-{
-    Console.WriteLine("Салют Иван!");
-}
-else
-{
-    Console.Write("Привет, ");
-    Console.WriteLine(name);
-}
+// if(name.ToLower() == "Иван ")
+// {
+//     Console.WriteLine("Салют Иван!");
+// }
+// else
+// {
+//     Console.Write("Привет, ");
+//     Console.WriteLine(name);
+// }
 
 
 
